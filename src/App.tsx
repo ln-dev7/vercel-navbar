@@ -57,9 +57,9 @@ type Props = {
 const ITEMS: Props[] = [
   { id: 1, tile: "Overview" },
   { id: 2, tile: "Integrations" },
-  { id: 3, tile: "Activity" },
-  { id: 4, tile: "Domains" },
+  // { id: 3, tile: "Activity" },
+  // { id: 4, tile: "Domains" },
   { id: 5, tile: "Usage" },
-  { id: 6, tile: "AI" },
+  // { id: 6, tile: "AI" },
   { id: 7, tile: "Settings" },
 ];
